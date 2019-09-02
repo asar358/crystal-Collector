@@ -1,0 +1,20 @@
+body {
+    /* background-image: url("../images/pic.jpg"); */
+    background-repeat: no-repeat;
+    background-size: auto;
+}
+
+.greetings {
+    text-align: center;
+    font-size: 50px;
+    padding: 50px;
+}
+
+#crystals {
+    margin-left: 150px;
+    margin-top: 50px;
+}
+
+.score-board {
+    /* background-color: black; */
+}
